@@ -1,0 +1,11 @@
+C:\Users\alexm\Desktop\Programmin\Midterm\obj\Debug\netcoreapp2.1\Midterm.csprojAssemblyReference.cache
+C:\Users\alexm\Desktop\Programmin\Midterm\obj\Debug\netcoreapp2.1\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Desktop\Programmin\Midterm\obj\Debug\netcoreapp2.1\Midterm.AssemblyInfoInputs.cache
+C:\Users\alexm\Desktop\Programmin\Midterm\obj\Debug\netcoreapp2.1\Midterm.AssemblyInfo.cs
+C:\Users\alexm\Desktop\Programmin\Midterm\bin\Debug\netcoreapp2.1\Midterm.deps.json
+C:\Users\alexm\Desktop\Programmin\Midterm\bin\Debug\netcoreapp2.1\Midterm.runtimeconfig.json
+C:\Users\alexm\Desktop\Programmin\Midterm\bin\Debug\netcoreapp2.1\Midterm.runtimeconfig.dev.json
+C:\Users\alexm\Desktop\Programmin\Midterm\bin\Debug\netcoreapp2.1\Midterm.dll
+C:\Users\alexm\Desktop\Programmin\Midterm\bin\Debug\netcoreapp2.1\Midterm.pdb
+C:\Users\alexm\Desktop\Programmin\Midterm\obj\Debug\netcoreapp2.1\Midterm.dll
+C:\Users\alexm\Desktop\Programmin\Midterm\obj\Debug\netcoreapp2.1\Midterm.pdb
